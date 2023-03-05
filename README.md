@@ -12,7 +12,7 @@ Eu sou o Fernando Berbel, sou programador Front End e estudando para me tornar B
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python logo">
 <br>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fberbel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoberbel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--<strong>Skills in progress:</strong>
 <br>
@@ -26,7 +26,7 @@ Eu sou o Fernando Berbel, sou programador Front End e estudando para me tornar B
 <br>
 <br>
 
-[![Fernando Berbel GitHub stats](https://github-readme-stats.vercel.app/api?username=fberbel)](https://github.com/anuraghazra/github-readme-stats) 
+[![Fernando Berbel GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoberbel)](https://github.com/anuraghazra/github-readme-stats) 
 <br>  
 <br>  
 <strong>Social media:</strong>
