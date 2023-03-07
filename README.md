@@ -42,8 +42,8 @@ Eu sou o Fernando Berbel, sou programador Front End e estudando para me tornar B
 
 <div>
 <h3><strong>Social media:</strong></h3>
-<a href="https://www.instagram.com/fernandoberbel/"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494488.png" width="40px"></a>
-<a href="https://www.linkedin.com/in/fernando-berbel/"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40px"></a>
+<a href="https://www.instagram.com/fernandoberbel/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494488.png" width="40px"></a>
+<a href="https://www.linkedin.com/in/fernando-berbel/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40px"></a>
 </div> 
 
 
