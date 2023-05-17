@@ -1,7 +1,7 @@
 <h3>Hi, Eu sou o Fernando Berbel 👋</h3>
 
 Estou estudando para me tornar um progamador Full-Stack e já possuo as habilidades abaixo.
-Ainda tem algumas habilidades que estão em fase de aprendizagem e que estou esperando adquirir o conhecimento necessário para tal, antes de inseri-las aqui.
+Ainda tem algumas habilidades que estão em fase de aprendizagem e que também apresendo aqui.
 Estou aberto a fazer network, conhecer novas pessoas, tecnologias e se Deus me abençoar ingressar em uma empresa para fazer o que sempre sonhei e poder contruir com a minha experiência técnica, profissional e de vida.
 #espiritodedono
 
