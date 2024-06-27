@@ -1,64 +1,34 @@
-<h3>Hi, Eu sou o Fernando Berbel 👋</h3>
+<h1>Olá, Eu sou o Fernando Berbel 👋</h1>
 
-Estou estudando para me tornar um progamador Full-Stack e já possuo as habilidades abaixo.
-Ainda tem algumas habilidades que estão em fase de aprendizagem e que também apresendo aqui.
-Estou aberto a fazer network, conhecer novas pessoas, tecnologias e se Deus me abençoar ingressar em uma empresa para fazer o que sempre sonhei e poder contruir com a minha experiência técnica, profissional e de vida.
-#espiritodedono
-
-<br>
+Sou Desenvolvedor Web e estudante de Análise e Desenvolvimento de Sistemas!
+Atualmente estou estudando programação e fazendo projetos pessoais, pois estou no processo de transição de carreira.
 
 <div>
- <h3><strong>Skills:</strong></h3>
+ <h2>Stack</h2>
+ <h3>Front End</h3>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo">
- <br>
-</div>
-
-<div>
- <h3><strong>Skills em Rota de Aprendizagem:</strong></h3>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-logo">
- <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo">
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript-logo">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native-logo">
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss-logo">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-logo">
- <br>
- <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoberbel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+ <h3>Back End</h3>
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql-logo">
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb-logo">
 </div>
 
-<br>
+<h2>GitHub</h2>
 
-<div>
- <h3><strong>GitHub:</strong></h3>
-
- [![Fernando Berbel GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoberbel)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
-
-<br>  
-
-<div>
-<h3><strong>Social media:</strong></h3>
-<a href="https://www.instagram.com/fernandoberbel/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/4494/4494488.png" width="40px"></a>
-<a href="https://www.linkedin.com/in/fernando-berbel/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40px"></a>
-</div> 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoberbel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Fernando Berbel GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoberbel)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
-**fberbel/fberbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Fernando Berbel GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoberbel&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 -->
